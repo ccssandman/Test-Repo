@@ -6,5 +6,7 @@ body {
 p {
   font-size:0.65em;
 }
-
-
+ul {
+	margin:0;
+	padding:0;
+}
